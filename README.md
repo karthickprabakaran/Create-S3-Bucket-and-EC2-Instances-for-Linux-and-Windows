@@ -45,21 +45,19 @@ Connect to the Windows instance using RDP.</br>
 
 ## S3 Bucket
 
-![Screenshot 2024-08-29 142748](https://github.com/user-attachments/assets/71bc8ffb-615f-4bb8-954f-6be9c3f9ffbd)
+[![Screenshot 2024-08-29 142748](https://github.com/karthickprabakaran/Create-S3-Bucket-and-EC2-Instances-for-Linux-and-Windows/blob/main/11.png)
+
+![Screenshot 2024-08-29 142810](https://github.com/karthickprabakaran/Create-S3-Bucket-and-EC2-Instances-for-Linux-and-Windows/blob/main/12.png)
 
 
-![Screenshot 2024-08-29 142810](https://github.com/user-attachments/assets/c475e736-85dc-450a-aafb-4358ce009d25)
-
-
-![Screenshot 2024-08-29 142826](https://github.com/user-attachments/assets/cb562592-e281-4eb4-b930-c40c0b819b84)
 
 
 
 ## EC2 
-![Screenshot 2024-08-30 092006](https://github.com/user-attachments/assets/1e077bd5-41e0-4d30-b184-3d8091f8a0b8)
+![Screenshot 2024-08-30 092006](https://github.com/karthickprabakaran/Create-S3-Bucket-and-EC2-Instances-for-Linux-and-Windows/blob/main/14.png)
 
 
-![Screenshot 2024-08-30 093052](https://github.com/user-attachments/assets/94e56600-26ab-4f8a-baff-18b3d7147536)
+![Screenshot 2024-08-30 093052](https://github.com/karthickprabakaran/Create-S3-Bucket-and-EC2-Instances-for-Linux-and-Windows/blob/main/15.png)
 
 
 
