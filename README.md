@@ -45,7 +45,7 @@ Connect to the Windows instance using RDP.</br>
 
 ## S3 Bucket
 
-[![Screenshot 2024-08-29 142748](https://github.com/karthickprabakaran/Create-S3-Bucket-and-EC2-Instances-for-Linux-and-Windows/blob/main/11.png)
+[![Screenshot 2024-08-29 142748](https://github.com/karthickprabakaran/Create-S3-Bucket-and-EC2-Instances-for-Linux-and-Windows/blob/main/111.png)
 
 ![Screenshot 2024-08-29 142810](https://github.com/karthickprabakaran/Create-S3-Bucket-and-EC2-Instances-for-Linux-and-Windows/blob/main/12.png)
 
